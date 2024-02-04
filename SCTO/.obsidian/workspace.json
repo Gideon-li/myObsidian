@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "b64d5894a7ce38df",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb75f72b2c6b09b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d647edafb19892b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "exercise2/readme1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bac6e455b61d0c02",
+    "type": "split",
+    "children": [
+      {
+        "id": "c82376d18b1e4ae9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dd9458a38b7a9c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd43747f367c64a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ebf6cf71fe475c22",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a145859d36140daa",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dfb9905cace5d97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcb9ed37d956468c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "exercise2/readme1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a1dd3948e6af0dd9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "exercise2/readme1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c467399f69226d8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "49a160424645cbfe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "exercise2/readme1.md"
+              }
+            }
+          },
+          {
+            "id": "93dbdd7264efa5a0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "dbfolder:创建一个新数据库表": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "6dd9458a38b7a9c6",
+  "lastOpenFiles": [
+    "SCTO/lihapeng.md",
+    "SCTO/未命名 1.md",
+    "SCTO/未命名.md",
+    "exercise2/Mykanbin.md",
+    "exercise2/combine.md",
+    "exercise2/Chapter 3.md",
+    "exercise2/Chapter 2.md",
+    "exercise2/Chapter 1.md",
+    "exercise2/readme1.md",
+    "mykanban.md",
+    "readbg lt.md",
+    "mind card 1.md",
+    "mind card.md",
+    "SCTO/__Templates/Calendar Entry.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "SCTO/Excalidraw/Timeline.md",
+    "exercise2",
+    "SCTO/Excalidraw/SLR github.md",
+    "Pasted Image 20240204110535_110.png",
+    "SCTO/Excalidraw/API gateway.md"
+  ]
+}

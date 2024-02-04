@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"27e0f3b54da142c3","x":-19,"y":-115,"width":565,"height":370,"type":"text","text":"![[Shahizan 2020.pdf]]"},
+		{"id":"ce6bc559591ba283","x":-540,"y":-40,"width":400,"height":400,"type":"file","file":"1️⃣ Primary Sources/Shahizan 2020.md"},
+		{"id":"995d0ddca069396b","x":420,"y":-310,"width":100,"height":60,"type":"text","text":"IoT"},
+		{"id":"4a60465add99a7c5","x":80,"y":-280,"width":250,"height":60,"type":"text","text":"blacok chain"},
+		{"id":"e98af87bc7fd09d1","x":-540,"y":-350,"width":485,"height":200,"type":"text","text":"![[Zettelkasten steps.png]]"},
+		{"id":"152ace0528473b86","x":64,"y":400,"width":400,"height":400,"type":"file","file":"Excalidraw/SLR github.md"},
+		{"id":"b52b206374a375c6","x":-580,"y":640,"width":624,"height":380,"type":"text","text":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ORAJKVq_Z7s?si=9dNXoQ5YTbxZRN7K\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"}
+	],
+	"edges":[
+		{"id":"d13a3184a21dce33","fromNode":"995d0ddca069396b","fromSide":"left","toNode":"4a60465add99a7c5","toSide":"right"},
+		{"id":"a8d6b49816f17296","fromNode":"4a60465add99a7c5","fromSide":"bottom","toNode":"27e0f3b54da142c3","toSide":"top"},
+		{"id":"dd007213955ecdca","fromNode":"e98af87bc7fd09d1","fromSide":"bottom","toNode":"ce6bc559591ba283","toSide":"top"},
+		{"id":"1426e5539416f212","fromNode":"ce6bc559591ba283","fromSide":"right","toNode":"152ace0528473b86","toSide":"left"}
+	]
+}
